@@ -8,7 +8,8 @@ Development of Weather API Using
 
 ## Technologies used
 
-### Python & Flask
+Built with:
+Python & Flask
 
 ## Installation
 
