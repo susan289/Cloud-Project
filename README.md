@@ -1,4 +1,12 @@
+
+**Version 1.0**
+
+
+#Project Name
+
 Development of Weather API Using Python
+
+#How to use
 
 
 1. Install Python and Flask
@@ -16,6 +24,14 @@ Development of Weather API Using Python
 4. You can find the complete specification of the API at the WSpecification.html file
 
 5. Added a service to add new user with hash MD5 enabled password.Default password is same as username
+
+## License
+Susan Yousefi, QMUL
+
+
+
+
+
 
 DB Schema:
 
