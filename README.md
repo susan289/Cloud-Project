@@ -4,9 +4,13 @@
 
 ## Project Name
 
-Development of Weather API Using Python
+Development of Weather API Using
 
-## How to use
+## Technologies used
+
+### Python & Flask
+
+## Installation
 
 
 1. Install Python and Flask
@@ -26,7 +30,7 @@ Development of Weather API Using Python
 5. Added a service to add new user with hash MD5 enabled password.Default password is same as username
 
 ## License
-Susan Yousefi, QMUL
+Susan Yousefi, QMUL 
 
 
 
