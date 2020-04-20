@@ -31,7 +31,8 @@ Python & Flask
 5. Added a service to add new user with hash MD5 enabled password.Default password is same as username
 
 ## License
-Susan Yousefi, QMUL 
+
+QMUL ©  Susan Yousefi
 
 
 
