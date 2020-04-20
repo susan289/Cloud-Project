@@ -33,7 +33,7 @@ Susan Yousefi, QMUL
 
 
 
-##DB Schema:
+## DB Schema:
 
 mysql> use mydb;
 Database changed
