@@ -2,11 +2,11 @@
 **Version 1.0**
 
 
-##Project Name
+## Project Name
 
 Development of Weather API Using Python
 
-##How to use
+## How to use
 
 
 1. Install Python and Flask
