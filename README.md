@@ -1,4 +1,4 @@
-Development of Weahter API Using Python
+Development of Weather API Using Python
 
 
 1. Install Python and Flask
