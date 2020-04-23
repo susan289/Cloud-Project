@@ -8,6 +8,15 @@ import mysql.connector
 app = Flask(__name__, static_url_path = "")
 auth = HTTPBasicAuth()
 
+app = Flask(__name__)
+@app.route('/')
+def weather():
+ 
+  return('<h1>weather!</h1>')
+if __name__ == '__main__':
+    app.run(host='0.0.0.0')
+
+
 @auth.get_password
 def get_password(username):
 
